@@ -33,7 +33,7 @@ Creating a portfolio to show off all my work in class.
 
 ## Screenshot
 
-![screenshot of deployed page](images\portfolio.PNG)
+![screenshot of deployed page](https://github.com/Slink86/Slink-Portfolio/blob/main/images/portfolio.PNG?raw=true)
 
 ## Depoloyed App Link
 
